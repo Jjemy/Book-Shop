@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{CEA38B95-35C4-4161-8D2A-F18CAF6E131E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AccountController.cs">
+    <Files>
+      <File FileName="appsettings.json" />
+      <File FileName="Program.cs" Line="18" Column="1" />
+      <File FileName="Controllers/AccountController.cs" Line="23" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ecommerce" expanded="True">
+            <Node name="Ecommerce" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ahmedgamal/projects/Ecommerce/Data/AppDbInitializer.cs" relfile="Data/AppDbInitializer.cs" line="197" column="1" />
+      <Breakpoint file="/Users/ahmedgamal/projects/Ecommerce/Data/AppDbInitializer.cs" relfile="Data/AppDbInitializer.cs" line="198" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ecommerce PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

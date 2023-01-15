@@ -1,0 +1,55 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+img {
+    width:100px;
+}
+
+.bookImg {
+    width:100%;
+}
+
+th, .fname {
+    text-align:center;
+}
+
+.card:hover {
+    box-shadow: 0 0 30px rgb(0 0 0 / 30%);
+    transition:.5s;
+}
+
+a {
+    font-size:14px !important;
+}
+
+@media (min-width:768px) {
+    .bio {
+        width:700px;
+    }
+
+    img {
+        width: 150px;
+    }
+}
+
+@media (min-width:1200px) and (max-width:1400px) {
+    .card .row .col-md-6 {
+        height:300px;
+    }
+}
